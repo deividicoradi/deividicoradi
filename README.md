@@ -1,23 +1,9 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deividicoradi/907813cd956e7b11e276ae1bbaf1f4d2/raw/f962cb9fe02d46068e0e52627f1eff65684b251c/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deividi Coradi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deividicoradi&color=yellow" alt="Profile views" /> </p>
-
-### Hi there 👋
-
-<!--
-**deividicoradi/deividicoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 🔥  Júnior Web Developer
+- 🔭  I’m currently studying backend
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,7 +20,6 @@ Here are some ideas to get you started:
 <br><br> 
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=deividicoradi&show_icons=true&theme=vision-aura" alt="deividicoradi's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividicoradi&layout=compact&theme=vision-aura" alt="deividicoradi's most languages"/>
@@ -44,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<divi>
+<div>
   <a href="https://instagram.com/deividicoradi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/789888698673922078/860776558154219530" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:deividi.coradii@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
