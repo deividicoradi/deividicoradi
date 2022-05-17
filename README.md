@@ -31,13 +31,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Deividi-Typescript" height="30" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Deividi-NodeJs" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
-<br><br>
+<br><br> 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=deividicoradi&show_icons=true&theme=vision-friendly-dark" alt="deividicoradi's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividicoradi&layout=compact&theme=vision-friendly-dark" alt="deividicoradi's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=deividicoradi&show_icons=true&theme=vision-aura" alt="deividicoradi's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividicoradi&layout=compact&theme=vision-aura" alt="deividicoradi's most languages"/>
 </p>
 
 <br><br>         
