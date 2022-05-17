@@ -24,7 +24,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=deividicoradi&show_icons=true&theme=vision-aura" alt="deividicoradi's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividicoradi&layout=compact&theme=vision-aura" alt="deividicoradi's most languages"/>
 </p>
-
 <br><br>         
 
 ## 👨🏽‍🦲 &nbsp;Social Links
