@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deividicoradi/907813cd956e7b11e276ae1bbaf1f4d2/raw/f962cb9fe02d46068e0e52627f1eff65684b251c/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Deividi Coradi</h1>
+<h1 align="left">Hi, I'm Deividi Coradi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deividicoradi&color=yellow" alt="Profile views" /> </p>
  
 - 🔥  Júnior Web Developer
